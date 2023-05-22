@@ -1,0 +1,13 @@
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\bin\Debug\KeyBoard_SendKeys.exe.config
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\bin\Debug\XMLFile_config.xml
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\bin\Debug\KeyBoard_SendKeys.exe
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\bin\Debug\KeyBoard_SendKeys.pdb
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\obj\Debug\KeyBoard_SendKeys.csprojResolveAssemblyReference.cache
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\obj\Debug\KeyBoard_SendKeys.frmMain.resources
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\obj\Debug\KeyBoard_SendKeys.frm_update.resources
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\obj\Debug\KeyBoard_SendKeys.frm_Update_buttons.resources
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\obj\Debug\KeyBoard_SendKeys.Properties.Resources.resources
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\obj\Debug\KeyBoard_SendKeys.csproj.GenerateResource.Cache
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\obj\Debug\KeyBoard_SendKeys.exe
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\obj\Debug\KeyBoard_SendKeys.pdb
+C:\Dev\KeyBoard_SendKeys\KeyBoard_SendKeys\obj\Debug\KeyBoard_SendKeys.frmMain_fix.resources
